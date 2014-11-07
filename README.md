@@ -1,4 +1,6 @@
 Battle-Tanks
 ============
 
-Issac the tank
+The coding of Issac
+
+To beat someone in the top 10
